@@ -89,7 +89,7 @@
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-react": "^7.19.0",
     "jest": "^25.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "loose-envify": "^1.4.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
